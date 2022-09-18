@@ -143,7 +143,7 @@ class RestaurantMenuBloc
     });
 
     //remove totalItems - _POPULAR_ITEMS_COUNT from list so remaining are top _POPULAR_ITEMS_COUNT items
-    for (int pos = 0; pos < priorityQueue.length - _kPopularItemsCount; pos++) {
+    while(priorityQueue.length > _kPopularItemsCount) {
       priorityQueue.removeFirst();
     }
 

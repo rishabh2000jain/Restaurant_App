@@ -1,0 +1,313 @@
+{
+  "cat1": [
+    {
+      "id": 101,
+      "name": "XYZ",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 102,
+      "name": "ABC",
+      "price": 934,
+      "instock": false
+    },
+    { "id": 103,
+      "name": "OTR",
+      "price": 945,
+      "instock": true
+    },
+    {
+      "id": 104,
+      "name": "SLG",
+      "price": 343,
+      "instock": true
+    },
+    {
+      "id": 105,
+      "name": "KGN",
+      "price": 342,
+      "instock": true
+    },
+    {
+      "id": 106,
+      "name": "GDS",
+      "price": 234,
+      "instock": true
+    },
+    {
+      "id": 107,
+      "name": "KNL",
+      "price": 934,
+      "instock": true
+    },
+    {
+      "id": 108,
+      "name": "GLM",
+      "price": 320,
+      "instock": true
+    },
+    {
+      "id": 109,
+      "name": "DKF",
+      "price": 394,
+      "instock": false
+    },
+    {
+      "id": 110,
+      "name": "VFS",
+      "price": 854,
+      "instock": true
+    }
+  ],
+  "cat2": [
+    {
+      "id": 201,
+      "name": "NA",
+      "price": 124,
+      "instock": true
+    },
+    {
+      "id": 202,
+      "name": "DS",
+      "price": 953,
+      "instock": true
+    },
+    {
+      "id": 203,
+      "name": "HF",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 204,
+      "name": "FJ",
+      "price": 583,
+      "instock": true
+    },
+    {
+      "id": 205,
+      "name": "LS",
+      "price": 945,
+      "instock": false
+    },
+    {
+      "id": 206,
+      "name": "TR",
+      "price": 394,
+      "instock": true
+    },
+    {
+      "id": 207,
+      "name": "PD",
+      "price": 35,
+      "instock": true
+    },
+    {
+      "id": 208,
+      "name": "AL",
+      "price": 125,
+      "instock": true
+    },
+    {
+      "id": 209,
+      "name": "TK",
+      "price": 129,
+      "instock": true
+    },
+    {
+      "id": 210,
+      "name": "PG",
+      "price": 294,
+      "instock": true
+    }
+  ],
+  "cat3": [
+    {
+      "id": 301,
+      "name": "A",
+      "price": 294,
+      "instock": true
+    },
+    {
+      "id": 302,
+      "name": "B",
+      "price": 125,
+      "instock": true
+    },
+    {
+      "id": 303,
+      "name": "C",
+      "price": 256,
+      "instock": true
+    },
+    {
+      "id": 304,
+      "name": "D",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 305,
+      "name": "E",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 306,
+      "name": "F",
+      "price": 530,
+      "instock": true
+    },
+    {
+      "id": 307,
+      "name": "G",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 308,
+      "name": "H",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 309,
+      "name": "I",
+      "price": 395,
+      "instock": true
+    }
+  ],
+  "cat4": [
+    {
+      "id": 401,
+      "name": "J",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 402,
+      "name": "K",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 403,
+      "name": "L",
+      "price": 125,
+      "instock": false
+    },
+    {
+      "id": 404,
+      "name": "M",
+      "price": 530,
+      "instock": true
+    },
+    {
+      "id": 405,
+      "name": "N",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 406,
+      "name": "O",
+      "price": 395,
+      "instock": true
+    },
+    {
+      "id": 407,
+      "name": "P",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 408,
+      "name": "Q",
+      "price": 400,
+      "instock": true
+    },
+    {
+      "id": 409,
+      "name": "R",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 409,
+      "name": "S",
+      "price": 256,
+      "instock": true
+    }
+  ],
+  "cat5": [
+    {
+      "id": 501,
+      "name": "T",
+      "price": 100,
+      "instock": false
+    },
+    {
+      "id": 502,
+      "name": "U",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 503,
+      "name": "V",
+      "price": 395,
+      "instock": true
+    },
+    {
+      "id": 504,
+      "name": "W",
+      "price": 100,
+      "instock": true
+    },
+    {
+      "id": 505,
+      "name": "X",
+      "price": 100,
+      "instock": false
+    },
+    {
+      "id": 506,
+      "name": "Y",
+      "price": 125,
+      "instock": true
+    },
+    {
+      "id": 507,
+      "name": "Z",
+      "price": 530,
+      "instock": true
+    }
+  ],
+  "cat6": [
+    {
+      "id": 601,
+      "name": "ABCD",
+      "price": 400,
+      "instock": true
+    },
+    {
+      "id": 602,
+      "name": "PROS",
+      "price": 256,
+      "instock": true
+    },
+    {
+      "id": 603,
+      "name": "NFDD",
+      "price": 200,
+      "instock": true
+    },
+    {
+      "id": 604,
+      "name": "LFKR",
+      "price": 200,
+      "instock": true
+    }
+  ]
+}
